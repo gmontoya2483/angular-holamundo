@@ -2,9 +2,9 @@
 
 El objetivo de este proyectos es ver la estructura de una aplicación en Angular, generar componentes reutilizables en forma manual y usando el CLI. También se va a colocar un ejemple del uso del ```*ngif``` y el ```*ngfor```  
 
- 
 
-![Pantalla principal](Documentation\mainscreen.png)
+
+![Pantalla principal](Documentation/mainscreen.png)
 
 
 
